@@ -5,7 +5,7 @@ spring:
             driver-class-name: com.mysql.cj.jdbc.Driver
             url: jdbc:mysql://104.225.149.197:3306/smart_store_bms?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai
             username: root
-            password: 123456
+            password: maoZhua@666
             initial-size: 10
             max-active: 100
             min-idle: 10
